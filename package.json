@@ -12,6 +12,9 @@
     "mysql",
     "restapi"
   ],
+  "engines": {
+    "node": "14.17.5"
+  },
   "author": "Kehinde Jejelaye <kehindejejelaye@gmail.com>",
   "license": "ISC",
   "dependencies": {
